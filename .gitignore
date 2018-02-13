@@ -1,0 +1,7 @@
+.idea/
+.vagrant/
+vendor
+*.exe
+*.o
+lift-emulator
+main
